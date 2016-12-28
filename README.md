@@ -1,3 +1,2 @@
-# fee-todo
-Beginnings of a TODO list application
-# to-do-list
+# Assignment from The Iron Yard, Front End Engineering (Durham)
+## Fall 2016
