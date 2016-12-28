@@ -7,3 +7,5 @@
 2. Try to create your JS code to handle DATA separately from the presentation (HTML).  
 3. ou many only use ONE global variable (a namespace [see the Dice Game for an example]) and NO OTHERS.  
 4. Your TODO items should be stored in JavaScript in an array, with each item being an object. (Don't worry about permanent storage, unless you do EPIC mode.)  
+
+![to do list eample](https://tiy-learn-content.s3.amazonaws.com/71c7ec05-todolist-items.png)
